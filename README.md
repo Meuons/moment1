@@ -1,7 +1,7 @@
 # moment1
 This is a repository used for the first assignment in the course
 
-###Tasks
+### Tasks
 The tasks for the assignment include:
 1. Answering theoretical questions
 2.  Creating a github account
